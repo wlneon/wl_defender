@@ -1,0 +1,12 @@
+基于tcp/ip的网络攻击防御系统
+服务器端linux
+C语言或python
+DDOS轰炸攻击
+Syn flood攻击
+反弹
+
+王：
+16.9.20： python的基本模块 ->python socket模块（2周）
+
+刘：
+16.9.20： linux系统基本操作->搭建dns服务器、理解原理（1周）
